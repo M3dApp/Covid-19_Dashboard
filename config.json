@@ -1,0 +1,15 @@
+{
+	"api_key": "010dc0aabd754fc39e1cb8bb133b0aca",
+	"title": "COVID-19",
+	"favicon": "icon.png",
+	"image": "earth.gif",
+	"data_headers": "areaCode,areaName,areaType,date,cumDailyNsoDeathsByDeathDate,hospitalCases,newCasesBySpecimenDate",
+	"local_location": "Exeter",
+	"local_location_type": "ltla",
+	"national_location": "England",
+	"national_location_type": "nation",
+	"articles_sort": "relevancy",
+	"articles_language": "en",
+	"search_terms": "Covid COVID-19 coronavirus",
+	"max_articles": 6
+}
